@@ -16,6 +16,10 @@ A typesafe global state solution utilizing React hooks and local storage
 ## Project status
 I'm currently studying developing this library in my free time so updates will be irregular
 
+## Changelog
+### 0.1.0
+- Added `useNumberStore`
+
 ## License
 MIT License
 
