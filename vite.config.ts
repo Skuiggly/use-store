@@ -11,7 +11,7 @@ export default defineConfig({
       entry: resolve(__dirname, "/src/index.ts"),
       name: "useStore",
       // the proper extensions will be added
-      fileName: "use-store",
+      fileName: "useStore",
       formats: ["es", "cjs", "iife", "umd"],
     },
     rollupOptions: {

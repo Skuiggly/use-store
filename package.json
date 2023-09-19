@@ -12,13 +12,13 @@
   "files": [
     "dist"
   ],
-  "main": "use-store.cjs",
-  "module": "./dist/use-store.js",
-  "types": ".dist/index.d.ts",
+  "main": "useStore.cjs",
+  "module": "./dist/useStore.js",
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/use-store.js",
-      "require": "./dist/use-store.umd.cjs"
+      "import": "./dist/useStore.js",
+      "require": "./dist/useStore.umd.cjs"
     }
   },
   "directories": {
